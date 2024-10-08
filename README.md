@@ -11,6 +11,6 @@ A simple script to set up a web server using Apache/Nginx on various Linux distr
     bash setup_web_server.sh
 
     
-##Usage
+Usage
 After running the script, your web server will be set up with a static website at /var/www/html. You can modify the index.html file to customize your content.
      
